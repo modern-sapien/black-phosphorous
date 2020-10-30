@@ -9,7 +9,7 @@ const TopBanner = ({ tagline }) => {
       <div className="container pt-2 mt-4 pb-2 border border-dark">
         <div className="row">
           <div className="col-12 text-center mt-2">
-            <h3>{tagline}</h3>
+            <h4>{tagline}</h4>
           </div>
         </div>
       </div>
