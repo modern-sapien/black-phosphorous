@@ -5,7 +5,7 @@ import TopBanner from "../../components/TopBanner/TopBanner.jsx";
 
 const tagline = "Your Journey Begins Here"
 
-const NewUserForm = () => {
+const NewUserPage = () => {
   return (
     <>
     <TopBanner tagline={tagline} />
@@ -80,4 +80,4 @@ const NewUserForm = () => {
   );
 };
 
-export default NewUserForm;
+export default NewUserPage;
