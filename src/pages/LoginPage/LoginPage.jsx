@@ -5,7 +5,7 @@ import InfoComponent from "../../components/InfoComponent/InfoComponent.jsx";
 
 const tagline = "Welcome Home"
 
-const LoginForm = () => {
+const LoginPage = () => {
   return (
     <>
     <TopBanner tagline={tagline} />
@@ -64,4 +64,4 @@ const LoginForm = () => {
   );
 };
 
-export default LoginForm;
+export default LoginPage;
